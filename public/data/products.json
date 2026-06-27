@@ -1,0 +1,84 @@
+[
+    
+    {
+        "id": 100,
+        "name": "Nikon FM2 Mechanical SLR",
+        "price": 380.00,
+        "category": "slr",
+        "description": "Legendaria cámara réflex (SLR) de 35mm completamente mecánica, famosa por su fiabilidad extrema y su velocidad de obturación de hasta 1/4000s. Cuerpo robusto en acabado negro mate. Incluye un lente Nikkor 50mm f/1.4 muy luminoso y correa de transporte.",
+        "image": "/img/img_100.png"
+    },
+    {
+        "id": 101,
+        "name": "Canon AE-1 Vintage SLR",
+        "price": 249.99,
+        "category": "slr",
+        "description": "Cámara analógica réflex (SLR) de 35mm, un clásico de los años 70. Ideal tanto para principiantes como para fotógrafos experimentados. Incluye lente de 50mm f/1.8 y correa original. Cuerpo robusto con un acabado plateado y negro atemporal.",
+        "image": "/img/img_101.png"
+    },
+    {
+        "id": 102,
+        "name": "Leica M3 Rangefinder",
+        "price": 1450.00,
+        "category": "rangefinder",
+        "description": "Legendaria cámara telemétrica (rangefinder) de 35mm. Conocida por su visor excepcionalmente brillante y su construcción de precisión mecánica. Este modelo plateado es un icono del diseño funcional. Incluye un lente Summicron 50mm f/2 y una correa de cuero premium.",
+        "image": "/img/img_102.png"
+    },
+    {
+        "id": 103,
+        "name": "Rolleiflex 2.8F TLR",
+        "price": 1850.00,
+        "category": "tlr",
+        "description": "Clásica cámara Réflex de Doble Objetivo (TLR) de formato medio (120). Famosa por su diseño icónico, su visor de cintura y la excepcional calidad de su lente Carl Zeiss Planar 80mm f/2.8. Esta unidad plateada y negra ofrece una experiencia de disparo única y resultados nítidos y detallados. Incluye correa de cuero y dos rollos de película de prueba.",
+        "image": "/img/img_103.png"
+    },
+    {
+        "id": 104,
+        "name": "Voigtländer Bessa-R Rangefinder",
+        "price": 650.00,
+        "category": "rangefinder",
+        "description": "Excelente cámara telemétrica (rangefinder) de 35mm con montura de rosca LTM. Destaca por su visor increíblemente brillante y un telémetro de gran precisión. Cuerpo ligero y ergonómico en acabado plateado y negro. Viene equipada con un lente Voigtländer Nokton 35mm f/1.7 muy nítido y correa de cuero.",
+        "image": "/img/img_104.png"
+    },
+    {
+        "id": 105,
+        "name": "Hasselblad 500C/M Medium Format",
+        "price": 2200.00,
+        "category": "slr",
+        "description": "Icónica cámara réflex de formato medio (6x6) de fabricación sueca, legendaria por su modularidad y óptica insuperable. Cuenta con un cuerpo cromado clásico, visor de cintura intercambiable y un lente Carl Zeiss Planar 80mm f/2.8 T*. Incluye chasis de película A12 y correa de cuero original. Una obra maestra de la ingeniería mecánica.",
+        "image": "/img/img_105.png"
+    },
+    {
+        "id": 106,
+        "name": "Canon A-1 Vintage SLR",
+        "price": 289.99,
+        "category": "slr",
+        "description": "Avanzada cámara réflex (SLR) de 35mm lanzada a finales de los años 70. Famosa por ser una de las primeras en incorporar un visor con lectura digital LED y múltiples modos de exposición automática (programada, prioridad de apertura y prioridad de obturador). Cuerpo robusto en un elegante acabado completamente negro. Incluye lente Canon FD 50mm f/1.4 muy luminoso y correa original de la marca.",
+        "image": "/img/img_106.png"
+    },
+    {
+        "id": 107,
+        "name": "Pentax K1000 Classic SLR",
+        "price": 210.00,
+        "category": "slr",
+        "description": "La cámara réflex (SLR) de 35mm más icónica para el aprendizaje de la fotografía analógica. Completamente mecánica y conocida por su durabilidad legendaria ('construida como un tanque'). Cuenta con un diseño minimalista y un fotómetro preciso. Incluye lente Pentax-M 50mm f/2 y su clásica correa de cuero marrón.",
+        "image": "/img/img_107.png"
+    },
+    {
+        "id": 108,
+        "name": "Konica Autoreflex T3 SLR",
+        "price": 275.00,
+        "category": "slr",
+        "description": "Robusta cámara réflex (SLR) de 35mm conocida por su sistema de exposición automática (prioridad de obturador) pionero. Es una máquina pesada y fiable, con un visor claro. Viene equipada con el legendario lente Konica Hexanon AR 50mm f/1.7, famoso por su nitidez y contraste. Incluye una correa de cuero de la marca.",
+        "image": "/img/img_108.png"
+    },
+    {
+        "id": 109,
+        "name": "Minolta X-700 MPS SLR",
+        "price": 260.00,
+        "category": "slr",
+        "description": "Una de las cámaras réflex (SLR) de 35mm más avanzadas y populares de los años 80. Destaca por su galardonado sistema Minolta Program System (MPS), que ofrece un modo completamente automático ideal para capturas rápidas, además de un visor excepcionalmente brillante. Cuerpo negro muy ergonómico. Incluye lente Minolta MD 50mm f/1.7 y correa original de tela con el logo de la marca.",
+        "image": "/img/img_109.png"
+    }
+
+]
